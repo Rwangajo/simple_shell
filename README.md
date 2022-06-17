@@ -1,2 +1,2 @@
-# simple_shell
-#Gates of shell
+# simple_shell 
+Gates of Shell
